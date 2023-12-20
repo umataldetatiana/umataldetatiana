@@ -3,7 +3,7 @@
 
 ![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)
 
-## Bio - Hey code lovers! 👋
+## Hey code lovers! 👋
 
 I’m Tatiana Barros, a DevRel Manager at Meteor Software and a Developer Relations enthusiast. As a neurodivergent woman, I like to share my insights on the challenges of working in the IT field, especially how to overcome imposter syndrome. I also create self-taught study frameworks and mentor people who want to transition to the tech sector.
 
