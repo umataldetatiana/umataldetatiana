@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=umataldetatiana%2Fgithub-visitors-badge&countColor=%23263759)(https://visitorbadge.io/status?path=umataldetatiana%2Fgithub-visitors-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=umataldetatiana%2Fgithub-visitors-badge&countColor=%23263759)
 
 
 ![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)
