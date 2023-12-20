@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=umataldetatiana%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=umataldetatiana%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/umataldetatiana?style=social)
 
-[![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)]
+![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)
 
 ## Bio - Hey code lovers! 👋
 
