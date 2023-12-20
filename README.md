@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=umataldetatiana%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=umataldetatiana%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/umataldetatiana?style=social)
 
-([![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)](https://postimg.cc/XZbVkbPS))](https://postimg.cc/XZbVkbPS)
+[![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)]
 
 ## Bio - Hey code lovers! 👋
 
@@ -13,15 +13,6 @@ In my spare time, I enjoy walking on the beach, watching sci-fi movies or shows,
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-
-## 🎯 Let's Keep in Touch and Follow me 
-
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umataldetatiana)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianabarros/)
-
-
-
-## 🔴 Live Coding? Let's Keep!
-
-
+## 🔴 Live Coding? Let's go!
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/umataldetatiana)
